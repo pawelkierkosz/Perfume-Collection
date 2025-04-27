@@ -1,4 +1,4 @@
-# Perfume Collection 📒✨
+# Perfume Collection
 
 A small React + React-Bootstrap demo app for storing, searching and rating perfumes.
 
