@@ -35,24 +35,10 @@ All changes live **only in browser memory**—no back-end required. Styling and 
 
 ## Getting Started
 
+```bash
+
 # 1. Install dependencies
 npm install    # or: yarn
 
 # 2. Run in development mode (http://localhost:3000)
 npm start      # or: yarn start
----
-
-## Project Structure
-perfume-collection/
-├── public/
-│   ├── index.html        # HTML template with <div id="root">
-│   ├── perfumes.json     # Initial data
-│   └── logo.png          # Favicon / PWA icon
-└── src/
-    ├── components/
-    │   ├── AddPerfumeForm.js
-    │   ├── PerfumeItem.js
-    │   ├── PerfumeList.js
-    │   └── SearchBar.js
-    ├── App.js            # Main "smart" component
-    └── index.js          # Entry point (imports bootstrap.min.css and renders <App/>)
