@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Blue De Chanel",
+      "description": "Klasyczny, kwiatowy zapach.",
+      "image": "https://media.douglas.pl/medias/TyiZ5z819600-0-global.jpg?context=bWFzdGVyfGltYWdlc3wzNDk1M3xpbWFnZS9qcGVnfGFHWm1MMmd3TXk4Mk16VTBNelEyTlRVd09EZzVOQzlVZVdsYU5YbzRNVGsyTURCZk1GOW5iRzlpWVd3dWFuQm58OGMzZjBhZGVjZDJlYzQzMGI5NWNmMGVjYjE4NmMxMTE3YmNmYTkwZDIwYzQ4YjI0YjI0ZTFjNDBiYmJlNjkzZQ&grid=true&imPolicy=grayScaled&imdensity=1&imwidth=775",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Dior Sauvage",
+      "description": "Świeży i pikantny aromat.",
+      "image": "https://www.sephora.pl/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dw55f934e5/images/hi-res/SKU/SKU_4216/691857_swatch.jpg",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "name": "Creed Aventus",
+      "description": "Owocowy, bogaty i ikoniczny zapach.",
+      "image": "https://www.stylsopot.pl/1944-product_main/creed-aventus-men-woda-perfumowana.jpg",
+      "rating": 5
+    }
+  ]
+  
